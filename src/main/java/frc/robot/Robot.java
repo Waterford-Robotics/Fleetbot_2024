@@ -112,5 +112,7 @@ public class Robot extends TimedRobot {
 
   // This function is run repeatedly during simulation mode
   @Override
-  public void simulationPeriodic() {}
+  public void simulationPeriodic() {
+    // If you see this, good job
+  }
 }

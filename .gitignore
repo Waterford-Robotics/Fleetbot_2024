@@ -1,4 +1,10 @@
 .DS_Store
+<<<<<<< HEAD
 
 .png
 .jpg
+=======
+.pub
+.jpeg
+.png
+>>>>>>> 45c0322 (Hi)
