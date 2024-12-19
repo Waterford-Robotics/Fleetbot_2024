@@ -86,7 +86,7 @@ public class Robot extends TimedRobot {
     // means that the motors run at 80% of the maximum CIM motor speed. Generally, it's
     // not a good idea to set this number above 80%, since running the motors too fast
     // can cause issues.
-    dT.arcadeDrive(0.8 * driver.getRawAxis(1), 0.8 * driver.getRawAxis(2));
+    dT.arcadeDrive(0.85 * driver.getRawAxis(1), 0.85 * driver.getRawAxis(2));
 
   }
 
